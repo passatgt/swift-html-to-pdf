@@ -28,5 +28,5 @@ let package = Package(
             dependencies: [.htmlToPdf]
         )
     ],
-    swiftLanguageVersions: [.version("6")]
+    swiftLanguageVersions: [.version("5")]
 )
